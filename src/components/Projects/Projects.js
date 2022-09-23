@@ -6,7 +6,7 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.jpeg";
 import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import cutiepiirobot from "https://camo.githubusercontent.com/4f648b9bb34df1f7bcaa8d97de72c0c8b619daf020db85a9a9b314116120acf0/68747470733a2f2f74656c656772612e70682f66696c652f3835353831643432663262393566663635666330362e6a7067";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
@@ -24,11 +24,11 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={cutiepiirobot}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              link="https://github.com/soumyajit4419/Chatify"
+              title="Cutiepii Robot"
+              description="Cutiepii is An Next Gen Advance Telegram group management bot, A modular telegram Python bot running on python3 with an sqlalchemy, Redis, mongodb database."
+              link="https://github.com/Awesome-RJ/CutiepiiRobot"
             />
           </Col>
 
