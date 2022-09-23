@@ -24,7 +24,12 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Javascript and Python. I am learning Go and php </b>
+              </i>
+              <br />
+              <br />I am Learning
+              <i>
+                <b className="purple">Go and php</b>
               </i>
               <br />
               <br />
