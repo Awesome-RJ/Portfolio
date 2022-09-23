@@ -27,7 +27,7 @@ function Home2() {
                 <b className="purple"> Javascript and Python. I am learning Go and php </b>
               </i>
               <br />
-              <br />I am Learning
+              <br />I am Learning 
               <i>
                 <b className="purple">Go and php</b>
               </i>
